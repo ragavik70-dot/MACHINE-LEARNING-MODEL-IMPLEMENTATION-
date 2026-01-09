@@ -25,3 +25,4 @@ Once the data is prepared, feature selection and preprocessing are carried out. 
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/78ea5c09-eba0-48ce-945e-169d724c88ab)
